@@ -1,5 +1,7 @@
-# AI-Homework-II
-Homework : 25_2_2023 Example 2 in class Morning Saturday 8h00 -> 11h30
+# AI Report Class
+Class Morning Saturday 8h00 -> 11h30 Artificial Intelligence_ Nhom 01CLC
 Name Student: Nguyễn Công Danh
 ID Student : 20146231
-Class : Artificial Intelligence_ Nhom 01CLC
+>> W<n>_<title>: Summary of knowledge in class
+>> AI_WEEK<n>_HOMEWORK: Homework every week
+>> Midterm_<title>: Report Midterm  
